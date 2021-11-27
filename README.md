@@ -1,5 +1,6 @@
 # CHROME CDMAPI SRC
 - Ready to build
+- Compatible from python 3.6 to 3.10 (Can be set the minimum version in bat file, --py-limited-api=cp36)
 - cryptopp850 src included for building **cryptlib.lib**
 - Build cdmapi.pyd and wheel (see _build.bat)
 ---
