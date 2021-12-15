@@ -1,4 +1,8 @@
 # CHROME CDMAPI SRC
+
+# NOTE:
+# CHROME CDM 2209 WAS ALREADY REVOKED since 2021-12-06. THIS IS NO LONGER WORKING
+
 - Ready to build
 - Compatible from python 3.6 to 3.10 (Can be set the minimum version in bat file, --py-limited-api=cp36)
 - cryptopp850 src included for building **cryptlib.lib**
